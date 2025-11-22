@@ -12,9 +12,6 @@ const identity = {
 };
 
 const skills = ["HTML", "CSS", "JavaScript", "React", "Astro", "Writing Docs"];
-
-const happy = true;
-const finished = true;
 ---
 <BaseLayout pageTitle={pageTitle}>
     <p>Here are a few facts about me:</p>
@@ -29,8 +26,4 @@ const finished = true;
     <ul>
         {skills.map((skill) => <li>{skill}</li>)}
     </ul>
-
-    {happy && <p>I am happy to be learning Astro!</p>}
-
-    {finished && <p>I finished this tutorial!</p>}
 </BaseLayout>
