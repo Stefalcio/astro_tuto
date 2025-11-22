@@ -1,7 +1,6 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: 'First Post'
-pubDate: 21/11/2025
+pubDate: 2025-11-21
 description: 'This is the first post.'
 author: 'Herweins'
 image:
