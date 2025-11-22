@@ -1,12 +1,12 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: My Second Blog Post
+title: Finished Astro Tutorial
 author: Herweins
-description: "After learning some Astro, I couldn't stop!"
+description: ""
 image:
-    url: "https://docs.astro.build/assets/arc.webp"
-    alt: "The Astro logo on a dark background with a purple gradient arc."
-pubDate: 2022-07-08
-tags: ["DevLog"]
+    url: '/src/images/skele_002.webp'
+    alt: 'Thinking Skeleton'
+pubDate: 21/11/2025
+tags: ["Website"]
 ---
-After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
+Finished the tutoriel now I want to make some fancy stuff.

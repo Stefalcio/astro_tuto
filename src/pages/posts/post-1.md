@@ -1,15 +1,14 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'My First Blog Post'
-pubDate: 2022-07-01
-description: 'This is the first post of my new Astro blog.'
+title: 'First Post'
+pubDate: 21/11/2025
+description: 'This is the first post.'
 author: 'Herweins'
 image:
-    url: 'src/images/skele_002.webp'
-    alt: 'Profile picture.'
+    url: '/src/images/skele_002.webp'
+    alt: 'Thinking Skeleton'
 tags: ["Website"]
 ---
-
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 
 ## What I've accomplished
