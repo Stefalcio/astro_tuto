@@ -5,8 +5,8 @@ pubDate: 2022-07-01
 description: 'This is the first post of my new Astro blog.'
 author: 'Herweins'
 image:
-    url: 'https://docs.astro.build/assets/rose.webp'
-    alt: 'The Astro logo on a dark background with a pink glow.'
+    url: 'src/images/skele_002.webp'
+    alt: 'Profile picture.'
 tags: ["Website"]
 ---
 
